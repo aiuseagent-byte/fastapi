@@ -1,3 +1,6 @@
+# Executar projeto
+uv run uvicorn app.main:app --reload
+
 # verificar usuario conectado
 git config --list
 
